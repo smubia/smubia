@@ -1,0 +1,12 @@
+name : SMU BIA
+description : SMU Business Intelligence & Analytics
+keyword : 
+url : http://www.smubia.org
+email : limkopi@smubia.org
+twitter : smubia
+github : smubia
+author : Gabriel Chuan
+year : 2017
+markdown : kramdown
+exclude :
+  - node_modules

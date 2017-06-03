@@ -1,0 +1,10 @@
+/* TEAM */
+  Developer: SMU BIA
+  Site: smubia.org
+  Twitter: @smubia
+  Github: @smubia
+  Location: Singapore, Asia
+
+/* SITE */
+  Standards: HTML5, MD, SCSS/CSS3, JS 
+  Components: Zurb Foundation, Jykill, jQuery, Modernizr, bower, grunt
