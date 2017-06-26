@@ -1,7 +1,7 @@
 name : SMU BIA
 description : SMU Business Intelligence & Analytics
 keyword : smu, business intelligence, analytics, data science, co-learning, data projects
-url : smubia.org
+url : "localhost:4000"
 email : limkopi@smubia.org
 twitter : smubia
 github : smubia
