@@ -53,7 +53,16 @@ $menu-hover-color: black;
 
   @include breakpoint(small only) {
     margin-top: 30px;
+    
+    #home-essays_reports {
+      margin: 20px 0 40px 0;
+    }
+
+    #home-projects {
+      margin-bottom: 50px;
+    }
   }
+
 
   $news-card-label-background: $primary-color;
   $news-card-label-background-hover: scale-color($news-card-label-background, $lightness: -15%);

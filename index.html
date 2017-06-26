@@ -2,7 +2,7 @@
 layout: default
 title: SMU Business Intelligence Analytics
 description: We're a community of student data analysts and scientists focused on a practical projects-driven co-learning.
-keywords: smu, business intelligence, analytics, data science, co-learning, data projects
+keywords: home, homepage
 ---
 
 <div id="content">
@@ -45,11 +45,21 @@ keywords: smu, business intelligence, analytics, data science, co-learning, data
         </div>
       </div>
     </div>
-    <div class="large-8 columns">
+    <div class="large-8 large-collapse columns" id="home-essays_reports">
       <h1>Essays / Reports</h1>
-      <p>All the essays and report titles goes here with date. TBD.</p>
+      <div class="row large-collapse">
+        {% for post in site.posts %}
+        <div class="large-12 columns">
+          <a href="{{post.url}}">
+            <h4>{{post.title}}</h4>
+          </a>
+          {{post.content | strip_html | truncate:180 }}... 
+          <a href="{{post.url}}">Read more</a>
+        </div>
+        {% endfor %}
+      </div>
     </div>
-    <div class="large-4 columns">
+    <div class="large-4 columns" id="home-projects">
       <h1>Projects</h1>
       <p>3-4 project cards goes here. TBD</p>
     </div>
