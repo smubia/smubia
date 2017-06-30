@@ -4412,7 +4412,9 @@ p {
   font-size: 18px; }
 
 #menu {
-  margin-top: 32px; }
+  margin-top: 32px;
+  border-bottom: 1px solid #979797;
+  padding-bottom: 10px; }
   @media screen and (min-width: 64em) {
     #menu div {
       padding-right: 0; }
@@ -4439,7 +4441,11 @@ p {
 
 @media screen and (max-width: 39.9375em) {
   #content {
-    margin-top: 30px; } }
+    margin-top: 30px; }
+    #content #home-essays_reports {
+      margin: 20px 0 40px 0; }
+    #content #home-projects {
+      margin-bottom: 50px; } }
 
 #content #events-cards {
   margin-top: 25px; }

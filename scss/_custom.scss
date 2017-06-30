@@ -11,6 +11,8 @@ $menu-hover-color: black;
 
 #menu {
   margin-top: 32px;
+  border-bottom: 1px solid #979797;
+  padding-bottom: 10px;
 
   @include breakpoint(large medium only) {
     div {
