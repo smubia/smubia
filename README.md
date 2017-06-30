@@ -8,7 +8,20 @@ npm install, bower install, bundle install,
 
 ## Getting Started
 
-**TBD.** npm start, bundle exec jekyll serve --watch
+If you're on a **fresh installation**:
+
+run `npm i` first to install all the npm modules we need. Important for running gulp!
+
+Then run the following:
+
+`npm start`
+
+This tells npm to run gulp which will convert all our scss styles into css. Without this step, you won't see your styles updated.
+
+`jekyll serve --config _config.yml,_config_dev.yml`
+
+This will run jekyll using the config files relevant to your environment 
+_config.yml is used on the server and _config_dev.yml is used on your local machine (the site.url differs for both)
 
 ## Adding Information
 
