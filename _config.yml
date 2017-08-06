@@ -10,6 +10,8 @@ year : 2017
 markdown : kramdown
 exclude :
   - node_modules
+include: ["_pages"]
+permalink: /:title/
 mainpages:
   - url: /about
     title: About

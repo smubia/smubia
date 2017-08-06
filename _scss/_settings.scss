@@ -131,16 +131,16 @@ $header-margin-bottom: 0.5rem;
 // 24,20,19,18,17,16
 $header-styles: (
   small: (
-    'h1': ('font-size': 30),
-    'h2': ('font-size': 34),
-    'h3': ('font-size': 28),
+    'h1': ('font-size': 34),
+    'h2': ('font-size': 28),
+    'h3': ('font-size': 24),
     'h4': ('font-size': 21),
     'h5': ('font-size': 18),
     'h6': ('font-size': 16),
   ),
   medium: (
-    'h1': ('font-size': 30),
-    'h2': ('font-size': 34),
+    'h1': ('font-size': 34),
+    'h2': ('font-size': 28),
     'h3': ('font-size': 28),
     'h4': ('font-size': 21),
     'h5': ('font-size': 18),
