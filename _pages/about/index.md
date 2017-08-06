@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: About Us
-description: About Page
+description: SMU BIA is a student run community that is driven to facilitate an accessible co-learning community aimed towards developing strong competencies in analytics.
 keywords: about-smubia
 permalink: "/about/"
 ---
