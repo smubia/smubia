@@ -141,7 +141,7 @@ $header-styles: (
   medium: (
     'h1': ('font-size': 34),
     'h2': ('font-size': 28),
-    'h3': ('font-size': 28),
+    'h3': ('font-size': 24),
     'h4': ('font-size': 21),
     'h5': ('font-size': 18),
     'h6': ('font-size': 16),
@@ -165,7 +165,7 @@ $anchor-text-decoration: none;
 $anchor-text-decoration-hover: none;
 $hr-width: $global-width;
 $hr-border: 1px solid $medium-gray;
-$hr-margin: rem-calc(20) auto;
+$hr-margin: rem-calc(10) auto;
 $list-lineheight: $paragraph-lineheight;
 $list-margin-bottom: $paragraph-margin-bottom;
 $list-style-type: disc;
@@ -636,4 +636,3 @@ $topbar-submenu-background: $topbar-background;
 $topbar-title-spacing: 0.5rem 1rem 0.5rem 0;
 $topbar-input-width: 200px;
 $topbar-unstack-breakpoint: medium;
-

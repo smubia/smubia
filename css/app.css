@@ -1374,7 +1374,7 @@ h6 {
   h2 {
     font-size: 1.75rem; }
   h3 {
-    font-size: 1.75rem; }
+    font-size: 1.5rem; }
   h4 {
     font-size: 1.3125rem; }
   h5 {
@@ -1396,7 +1396,7 @@ hr {
   clear: both;
   max-width: 60rem;
   height: 0;
-  margin: 1.25rem auto;
+  margin: 0.625rem auto;
   border-top: 0;
   border-right: 0;
   border-bottom: 1px solid #cacaca;
@@ -4909,3 +4909,6 @@ p {
 
 article.essay_report-item {
   margin-bottom: 25px; }
+
+#footer {
+  margin: 30px 0 50px 0; }
