@@ -9,7 +9,7 @@ permalink: "/about/"
 ![Coreteam Photo Excluding Vikram+Josh](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/20622323_816108071894671_1241438410484188360_n.jpg?oh=44b0296c13320f1681536900551f17a9&oe=59F3C8CB)
 
 # About SMU BIA
----------
+---
 
 ## Our Vision
 
@@ -22,7 +22,7 @@ We help students to acquire skills for building solutions for business problems 
 <br>
 
 # Core Team, Advisors & Alumni
----------
+---
 
 ## Current Core Team
 
