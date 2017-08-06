@@ -49,13 +49,13 @@ keywords: home, homepage
       <h1>Essays / Reports</h1>
       <div class="row large-collapse">
         {% for post in site.posts %}
-        <div class="large-12 columns">
+        <article class="large-12 columns essay_report-item">
           <a href="{{post.url}}">
             <h4>{{post.title}}</h4>
           </a>
           {{post.content | strip_html | truncate:180 }}... 
           <a href="{{post.url}}">Read more</a>
-        </div>
+        </article>
         {% endfor %}
       </div>
     </div>
