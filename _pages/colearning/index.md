@@ -29,11 +29,25 @@ Venue TBC
 
 <br>
 
+## Structure and Objectives
+
+1. Take ownership of your own learning
+1. Have a spirit of sharing (you'll learn better that way)
+1. Be open and willing to learn
+1. Always apply what you learn
+1. Be committed
+
+<br>
+
 ## Schedule
 
 ### Sem 1
 
-TBD
+| #  | Event Title               | Date         |
+| -- |---------------------------|--------------|
+| 1  | Vivace Info Session       | 23 Aug 17    |
+| 2  | Industry Talk 1           | 30 Aug 17    |
+| 3  | Co-Learning Session 1     | 30 Aug 17    |
 
 ### Sem 2
 

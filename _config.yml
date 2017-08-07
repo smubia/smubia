@@ -8,6 +8,8 @@ github : smubia
 author : Gabriel Chuan
 year : 2017
 markdown : kramdown
+kramdown:
+  input: GFM
 exclude :
   - node_modules
 include: ["_pages"]
