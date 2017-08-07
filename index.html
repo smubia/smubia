@@ -10,8 +10,8 @@ keywords: home, homepage
     <div class="large-12 columns">
       <h1>Events / Workshops</h1>
       <div class="row small-up-12 medium-up-3" id="events-cards">
-        {% assign events = site.categories.events limit: 3 | sort: "happening_from" %}
-        {% for event in events %}
+        {% assign events = site.categories.events | sort: "happening_from" %}
+        {% for event in events limit: 3 %}
         <div class="column">
           <div class="card news-card">
             <div class="card-section">
