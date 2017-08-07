@@ -4863,14 +4863,18 @@ p {
 
 @media screen and (min-width: 64em) {
   #content {
-    margin-top: 15px; }
+    margin-top: 52px; }
+    #content #home-image_banner {
+      margin-top: -52px; }
     #content #home-essays_reports_projects {
       margin-top: 30px;
       margin-bottom: 30px; } }
 
 @media screen and (max-width: 39.9375em) {
   #content {
-    margin-top: 0px; }
+    margin-top: 30px; }
+    #content #home-image_banner {
+      margin-top: -30px; }
     #content #home-essays_reports {
       margin: 20px 0 40px 0; }
     #content #home-projects {
