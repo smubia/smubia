@@ -57,7 +57,7 @@ He has ***some "hacking"*** experience from attending hackathons, working on his
 
 [**Sheryl Chong**](https://www.linkedin.com/in/sheryl-chong-26406585/)
 
-HELLO BOSS
+Sheryl will describe herself here
 
 <br>
 
@@ -75,7 +75,9 @@ Vikram is currently learning data science and exploring ways to provide solution
 
 [**Lee Tze Yiing**](https://www.linkedin.com/in/lee-tze-yiing-86511b123/)
 
-describe yourself lolol
+Tze Yiing is a Year 2 BAcc student and is interested in the applications of advanced analytics for automation and business solutions. He deeply believes in self-learning skills beyond the classroom, and has accumulated multi-disciplinary skillsets, ranging from Enterprise-platform automation, web/app development, web scraping, general scripting, as well as advanced analytics.
+
+Tze Yiing is a the Finance/Operations Director at BIA, and has been involved with club budgeting and the planning and creation of the Exploratory Data Analytics Curriculum. He has also been the main driver behind the streamlining of internal operations of the club through custom Sharepoint Apps, as well as process automation solutions with Microsoft Flow.
 
 <br>
 
