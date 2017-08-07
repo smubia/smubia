@@ -13,7 +13,7 @@ kramdown:
 exclude :
   - node_modules
 include: ["_pages"]
-permalink: /:title/
+permalink: /:categories/:title/
 mainpages:
   - url: /about
     title: About

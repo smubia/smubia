@@ -50,7 +50,7 @@ keywords: home, homepage
       <div class="large-8 large-collapse columns" id="home-essays_reports">
         <h1>Essays / Reports</h1>
         <div class="row large-collapse">
-          {% for post in site.posts %}
+          {% for post in site.categories.blog %}
           <article class="large-12 columns essay_report-item">
             <a href="{{post.url}}">
               <h4>{{post.title}}</h4>

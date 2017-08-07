@@ -1,0 +1,36 @@
+<!doctype html>
+<html class="no-js">
+{% include head.html %}
+
+<body>
+
+	{% include nav.html %}
+
+	<div id="content">
+		<div class="row">
+			<div class="large-12 columns">
+				<h1>Events / Workshops</h1>
+				<div class="row small-up-12 medium-up-12" id="events-cards">
+					<div class="column">
+						{% for post in site.categories.events %}
+								<div class="card news-card">
+									<div class="card-section">
+										<article class="news-card-article">
+											<h4 class="news-card-title"><a href="{{post.url}}">{{post.title}}</a></h4>
+											<p class="news-card-description  hide-for-small-only">{{post.content | strip_html | truncate:180 }}</p>
+										</article>
+										<h5 class="news-card-date">This Thursday, 3rd May</h5>
+									</div>
+								</div>
+						{% endfor %}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	{% include footer.html %}
+
+
+</body>
+</html>
