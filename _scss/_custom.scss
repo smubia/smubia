@@ -56,7 +56,8 @@ $menu-hover-color: black;
 
 #content {
   @include breakpoint(large medium only) {
-    margin-top: 52px;
+    // margin-top: 52px;
+    margin-top: 15px;
 
     #home-essays_reports_projects {
       margin-top: 30px;
@@ -66,7 +67,8 @@ $menu-hover-color: black;
   }
 
   @include breakpoint(small only) {
-    margin-top: 30px;
+    // margin-top: 30px;
+    margin-top: 0px;
 
     #home-essays_reports {
       margin: 20px 0 40px 0;
@@ -80,6 +82,13 @@ $menu-hover-color: black;
       margin-top: 0px;
       margin-bottom: 30px;
     }
+  }
+
+  #home-image_banner {
+  }
+
+  #home-content_body {
+    margin-top: 45px;
   }
 
   #home-essays_reports {

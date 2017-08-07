@@ -4863,14 +4863,14 @@ p {
 
 @media screen and (min-width: 64em) {
   #content {
-    margin-top: 52px; }
+    margin-top: 15px; }
     #content #home-essays_reports_projects {
       margin-top: 30px;
       margin-bottom: 30px; } }
 
 @media screen and (max-width: 39.9375em) {
   #content {
-    margin-top: 30px; }
+    margin-top: 0px; }
     #content #home-essays_reports {
       margin: 20px 0 40px 0; }
     #content #home-projects {
@@ -4878,6 +4878,9 @@ p {
     #content #home-essays_reports_projects {
       margin-top: 0px;
       margin-bottom: 30px; } }
+
+#content #home-content_body {
+  margin-top: 45px; }
 
 #content #home-essays_reports h1 {
   margin-bottom: 20px; }
