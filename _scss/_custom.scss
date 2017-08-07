@@ -26,12 +26,18 @@ $menu-hover-color: black;
   }
 
   @include breakpoint(small only) {
+
+    .menu {
+      margin-top: 15px;
+    }
+
     .menu > li {
       float: none;
     }
 
     .menu > li > a {
-      padding: 15px 15px;
+      font-size: 16px;
+      padding: 15px 10px;
     }
   }
 

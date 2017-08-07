@@ -4845,10 +4845,13 @@ p {
       padding-left: 30px;
       padding-right: 0px; } }
   @media screen and (max-width: 39.9375em) {
+    #menu .menu {
+      margin-top: 15px; }
     #menu .menu > li {
       float: none; }
     #menu .menu > li > a {
-      padding: 15px 15px; } }
+      font-size: 16px;
+      padding: 15px 10px; } }
   #menu .menu > li > a {
     text-transform: uppercase;
     font-family: "Rubik", sans-serif;
