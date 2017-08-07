@@ -57,7 +57,7 @@ He has ***some "hacking"*** experience from attending hackathons, working on his
 
 [**Sheryl Chong**](https://www.linkedin.com/in/sheryl-chong-26406585/)
 
-describe yourself lolol
+Sheryl will describe herself here
 
 <br>
 
