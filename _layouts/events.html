@@ -10,6 +10,8 @@
 		<div class="row">
 			<div class="large-12 columns">
 				<h1>Events / Workshops</h1>
+				<br>
+				<h2>Upcoming</h2>
 				<div class="row small-up-12 medium-8" id="events-cards">
 					<div class="column">
 						{% assign events = site.categories.events | sort: "happening_from" %}
@@ -28,6 +30,8 @@
 						{% endfor %}
 					</div>
 				</div>
+
+				<h2>Past</h2>
 			</div>
 		</div>
 	</div>
