@@ -9,9 +9,7 @@ permalink: "/contact/"
 # Contact Us
 ---
 
-<br>
-
-Generally you can reach us at `smubia [at] smu.edu.sg`
+Generally you can reach us at `bia [at] sa.smu.edu.sg`
 
 <br>
 
