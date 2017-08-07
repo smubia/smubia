@@ -51,6 +51,12 @@ $menu-hover-color: black;
 #content {
   @include breakpoint(large medium only) {
     margin-top: 52px;
+
+    #home-essays_reports_projects {
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+
   }
 
   @include breakpoint(small only) {
@@ -62,6 +68,11 @@ $menu-hover-color: black;
 
     #home-projects {
       margin-bottom: 50px;
+    }
+
+    #home-essays_reports_projects {
+      margin-top: 0px;
+      margin-bottom: 30px;
     }
   }
 

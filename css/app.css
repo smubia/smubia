@@ -1333,37 +1333,37 @@ h6 {
     color: #cacaca; }
 
 h1 {
-  font-size: 2.125rem;
-  line-height: 1.2;
-  margin-top: 0;
-  margin-bottom: 0.5rem; }
-
-h2 {
-  font-size: 1.75rem;
-  line-height: 1.2;
-  margin-top: 0;
-  margin-bottom: 0.5rem; }
-
-h3 {
   font-size: 1.5rem;
   line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
-h4 {
-  font-size: 1.3125rem;
+h2 {
+  font-size: 1.375rem;
   line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
-h5 {
+h3 {
   font-size: 1.125rem;
   line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
-h6 {
+h4 {
   font-size: 1rem;
+  line-height: 1.2;
+  margin-top: 0;
+  margin-bottom: 0.5rem; }
+
+h5 {
+  font-size: 0.8125rem;
+  line-height: 1.2;
+  margin-top: 0;
+  margin-bottom: 0.5rem; }
+
+h6 {
+  font-size: 0.625rem;
   line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
@@ -4860,7 +4860,10 @@ p {
 
 @media screen and (min-width: 64em) {
   #content {
-    margin-top: 52px; } }
+    margin-top: 52px; }
+    #content #home-essays_reports_projects {
+      margin-top: 30px;
+      margin-bottom: 30px; } }
 
 @media screen and (max-width: 39.9375em) {
   #content {
@@ -4868,7 +4871,10 @@ p {
     #content #home-essays_reports {
       margin: 20px 0 40px 0; }
     #content #home-projects {
-      margin-bottom: 50px; } }
+      margin-bottom: 50px; }
+    #content #home-essays_reports_projects {
+      margin-top: 0px;
+      margin-bottom: 30px; } }
 
 #content #home-essays_reports h1 {
   margin-bottom: 20px; }

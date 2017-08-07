@@ -45,23 +45,25 @@ keywords: home, homepage
         </div>
       </div>
     </div>
-    <div class="large-8 large-collapse columns" id="home-essays_reports">
-      <h1>Essays / Reports</h1>
-      <div class="row large-collapse">
-        {% for post in site.posts %}
-        <article class="large-12 columns essay_report-item">
-          <a href="{{post.url}}">
-            <h4>{{post.title}}</h4>
-          </a>
-          {{post.content | strip_html | truncate:180 }}...
-          <a href="{{post.url}}">Read more</a>
-        </article>
-        {% endfor %}
+  </div>
+  <div id="home-essays_reports_projects" class="row">
+      <div class="large-8 large-collapse columns" id="home-essays_reports">
+        <h1>Essays / Reports</h1>
+        <div class="row large-collapse">
+          {% for post in site.posts %}
+          <article class="large-12 columns essay_report-item">
+            <a href="{{post.url}}">
+              <h4>{{post.title}}</h4>
+            </a>
+            {{post.content | strip_html | truncate:180 }}...
+            <a href="{{post.url}}">Read more</a>
+          </article>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="large-4 columns" id="home-projects">
+        <h1>Projects</h1>
+        <p>3-4 project cards goes here. TBD</p>
       </div>
     </div>
-    <div class="large-4 columns" id="home-projects">
-      <h1>Projects</h1>
-      <p>3-4 project cards goes here. TBD</p>
-    </div>
-  </div>
 </div>
