@@ -52,10 +52,10 @@ $menu-hover-color: black;
 
 #content {
   @include breakpoint(large medium only) {
-    margin-top: 52px;
+    // margin-top: 52px;
 
     #home-image_banner {
-      margin-top: -52px;
+      // margin-top: -52px;
     }
 
     #home-essays_reports_projects {
@@ -155,7 +155,7 @@ article {
 
 .pages {
   h1 {
-    margin-top: 1.5em;
+    margin-top: 52px;
     border-bottom: 1px solid #cacaca;
   }
 
