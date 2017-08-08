@@ -4939,7 +4939,7 @@ article.essay_report-item {
   margin-top: 2em; }
 
 .essays h2 {
-  margin-top: 1em;
+  margin-top: 2em;
   margin-bottom: 10px;
   border-bottom: 1px solid #333; }
 
@@ -4948,10 +4948,16 @@ article.essay_report-item {
   margin-bottom: 10px; }
 
 .essays p {
-  margin: 1.25em 0 .5em 0; }
-
-.essays p {
+  margin: 1.25em 0 .5em 0;
   font-size: 18px; }
+
+.essays .essays-title_and_author {
+  text-align: center;
+  margin-bottom: 50px; }
+
+.essays .essays-author_name {
+  font-style: italic;
+  font-size: 20px; }
 
 #footer {
   margin: 30px 0 50px 0; }

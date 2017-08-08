@@ -182,7 +182,7 @@ article {
   }
 
   h2 {
-    margin-top: 1em;
+    margin-top: 2em;
     margin-bottom: 10px;
     border-bottom: 1px solid #333;
   }
@@ -194,10 +194,16 @@ article {
 
   p {
     margin: 1.25em 0 .5em 0;
+    font-size: 18px;
   }
 
-  p {
-    font-size: 18px;
+  .essays-title_and_author {
+    text-align: center; margin-bottom: 50px;
+  }
+
+  .essays-author_name {
+    font-style: italic;
+    font-size: 20px;
   }
 }
 
