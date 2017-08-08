@@ -57,7 +57,9 @@ He has ***some "hacking"*** experience from attending hackathons, working on his
 
 [**Sheryl Chong**](https://www.linkedin.com/in/sheryl-chong-26406585/)
 
-Sheryl will describe herself here
+Sheryl is a 3rd year information systems student pursuing a second major in analytics. She developed interests in analytics during her polytechnic internship at SAS Institute Pte Ltd and wishes to use analytics to impact and improve the society. 
+
+As BIA's Vice President, she drives initiatives by liasing and networking with different stakeholders, improving BIA club visibility and expanding the BIA community.
 
 <br>
 
@@ -97,7 +99,9 @@ David’s role at BIA focuses on developing sustainable industry partnerships be
 
 [**Ong Ming Hao**](https://www.linkedin.com/in/michaelomh)
 
-describe yourself lolol
+Michael is a year 4 information systems and advance analytics student. He is well versed in data visualisation, data storytelling and many other aspects of data analytics. Currently, he is working in General Electric (healthcare) as a business intelligence intern. 
+
+As BIA's marketing director, he is involved in creating edm, planning for campaigns and maintaining smubia's Facebook page.
 
 <br>
 
