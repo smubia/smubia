@@ -23,13 +23,19 @@ BIA aims to enable undergraduate students to acquire, hone and apply competencie
 
 BIA also hopes to bridge the gap between technology and business functions, where students develop a career mindset that embraces the convergence of digital competence with business leadership.
 
-
 ## Our Mission Statement
 
 BIA leverages a co-learning community, comprising of students from across disciplines and educational institutions to accelerate learning outcomes in data science and sustain close collaborations with various industry and government organizations to give students the competitive edge in today’s data-driven economy.
 
 Through this learning community, students across disciplines discover how analytics could be applied to solve teething issues in their domain of study; close industry collaborations also enable students to work on real-world data sets, maintain strategic feedback loops with existing practitioners, and test their solutions under close mentorship and guidance from university professors and qualified industry practitioners.
 
+# What We Do
+
+While we do organize events to promote awareness of analytics, our core is in developing a community that's optimal for learning analytics. Our goal is for SMU BIA to be a conducive environment for you to stretch your learning. With what you have learnt, build meaningful things, share with the community and motivate others.
+
+Whilst the journey to mastery and excellence can be lonely, it doesn't have to be. Whilst it may be hard to start on something - be it because you have no background, or idea, or understanding of why - it only takes you the drive to want to seek answers to join us on our collaborative journey together.
+
+The most important thing for you to do is to **push yourself as a person** and that's all we ask of you.
 
 # Core Team, Advisors & Alumni
 
@@ -44,7 +50,7 @@ He has ***some "hacking"*** experience from attending hackathons, working on his
 
 <h3><a href="https://www.linkedin.com/in/sheryl-chong-26406585/">Sheryl Chong</a></h3>
 
-Sheryl is a 3rd year information systems student pursuing a second major in analytics. She developed interests in analytics during her polytechnic internship at SAS Institute Pte Ltd and wishes to use analytics to impact and improve the society. 
+Sheryl is a 3rd year information systems student pursuing a second major in analytics. She developed interests in analytics during her polytechnic internship at SAS Institute Pte Ltd and wishes to use analytics to impact and improve the society.
 
 As BIA's Vice President, she drives initiatives by liasing and networking with different stakeholders, improving BIA club visibility and expanding the BIA community.
 
@@ -80,7 +86,7 @@ David’s role at BIA focuses on developing sustainable industry partnerships be
 
 <h3><a href="https://www.linkedin.com/in/michaelomh">Ong Ming Hao</a></h3>
 
-Michael is a year 4 information systems and advance analytics student. He is well versed in data visualisation, data storytelling and many other aspects of data analytics. Currently, he is working in General Electric (healthcare) as a business intelligence intern. 
+Michael is a year 4 information systems and advance analytics student. He is well versed in data visualisation, data storytelling and many other aspects of data analytics. Currently, he is working in General Electric (healthcare) as a business intelligence intern.
 
 As BIA's marketing director, he is involved in creating edm, planning for campaigns and maintaining smubia's Facebook page.
 

@@ -10,15 +10,11 @@ permalink: "/contact/"
 
 ## Details
 
-Generally you can reach us at `bia [at] sa.smu.edu.sg`
+You can reach us at `bia [at] sa.smu.edu.sg`
 
 ## Partners
 
-We are open to partnering with other tertiary institutions and organizations. As long as it's in the benefit of learners.
-
-![SIM DAC](/assets/img/SIMDAC-2017-logo.png)
-
-We are currently working on an upcoming hackathon end of January '18 / Early Feb '18 with SIM DAC.
+We are seeking partners who enjoy learning and sharing the vision: **developing strong analytics skills in students.**
 
 ## Sponsors
 
