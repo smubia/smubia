@@ -16,9 +16,9 @@ You will personally check a list of concepts and ensure that you have applied it
 
 While we understand that there is plenty of buzz about Deep Learning, Machine Learning, etc, we emphasize that we are largely **fundamentals driven.** Our belief is that by focusing too much on the buzz, you miss the fundamentals. By missing these fundamentals, you're literally building your future in analytics on shaky foundations. You will fall. As self-learners ourselves, by focusing on the fundamentals, we ensure that we are less susceptible to shifting trends in the analytics landscape. Trained on strong foundations, nothing will faze us.
 
-## Rules
+# Rules
 
-### Why these rules?
+## Why these rules?
 
 It's designed to help us build an awesome, productive and fearless community. It's not designed to burden you.
 
@@ -37,6 +37,19 @@ Let's say someone is trying to solve a problem. Do not sporadically (at random i
 ### 4. No subtle-isms
 
 Don't be sarcastic. It doesn't help with learning. If you have something to share, speak directly and in a clear manner. Always make others feel comfortable and encouraged to ask questions, learn from each other.
+
+# Admissions
+
+## Overview
+
+We'll be interviewing mainly for the following:
+
+- Culture Fit
+- Tenacity To Learn
+- Commitment
+
+You're expected to prepare for the interview.
+It tells us a lot about how you would treat this program.
 
 # Details
 
