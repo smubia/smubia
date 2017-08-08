@@ -4919,20 +4919,20 @@ h1, h2, h3, h4, h5, h6 {
 article.essay_report-item {
   margin-bottom: 25px; }
 
-.pages h1 {
+.pages h1, .events h1 {
   margin-top: 52px;
   border-bottom: 1px solid #cacaca; }
 
-.pages h2 {
+.pages h2, .events h2 {
   margin: 1.5em 0 0.5em; }
 
-.pages h3:first-of-type {
+.pages h3:first-of-type, .events h3:first-of-type {
   margin: 1.5em 0 0.5em; }
 
-.pages h3 {
+.pages h3, .events h3 {
   margin: 1.75em 0 0.5em; }
 
-.pages h3:last-of-type {
+.pages h3:last-of-type, .events h3:last-of-type {
   margin: 1.75em 0 2em; }
 
 .essays h1 {
