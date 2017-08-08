@@ -16,21 +16,36 @@ You will personally check a list of concepts and ensure that you have applied it
 
 While we understand that there is plenty of buzz about Deep Learning, Machine Learning, etc, we emphasize that we are largely **fundamentals driven.** Our belief is that by focusing too much on the buzz, you miss the fundamentals. By missing these fundamentals, you're literally building your future in analytics on shaky foundations. You will fall. As self-learners ourselves, by focusing on the fundamentals, we ensure that we are less susceptible to shifting trends in the analytics landscape. Trained on strong foundations, nothing will faze us.
 
+## Rules
+
+### Why these rules?
+
+It's designed to help us build an awesome, productive and fearless community. It's not designed to burden you.
+
+### 1. No feigning surprise
+
+Don't act surprised when someone says they don't know something. It has no educational benefit. It may make you feel better, but at the expense of others. While there's no immediate harm, it's obstructing a culture that embraces not knowing something and seeking answers for those things.
+
+### 2. No half-hearted explanations
+
+Don't simply give a half-hearted explanation of something you know, which others do not know. You may know how something works, but if you can't really explain it in simple terms, are you sure you really know you know it well enough? Humble yourself and treat each genuine question from others as an opportunity to improve your understanding. More importantly, we help each other :).
+
+### 3. No back-seat driving
+
+Let's say someone is trying to solve a problem. Do not sporadically (at random intervals) offer advice. If you wish to help, put your heart into it and commit to it. We're not saying you shouldn't try to help. Rather, you should fully engage in it. It would immensely help the other party as well.
+
+### 4. No subtle-isms
+
+Don't be sarcastic. It doesn't help with learning. If you have something to share, speak directly and in a clear manner. Always make others feel comfortable and encouraged to ask questions, learn from each other.
+
+# Details
+
 ## When Is It?
 
 **Date:**
 Every Wednesday, 7 - 10pm <br>
 **Venue:**
-Venue TBC
-
-
-## Structure and Objectives
-
-1. Take ownership of your own learning
-1. Have a spirit of sharing (you'll learn better that way)
-1. Be open and willing to learn
-1. Always apply what you learn
-1. Be committed
+SMU SIS CLASSROOM B1-1
 
 
 ## Schedule
@@ -46,5 +61,9 @@ Venue TBC
 ### Sem 2
 
 TBD
+
+## Materials
+
+Slides will be uploaded in each event page. They will also be emailed.
 
 <br>
