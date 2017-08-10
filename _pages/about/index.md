@@ -104,4 +104,6 @@ describe yourself lolol
 
 <h3><a href="https://www.linkedin.com/in/vincenttatan/">Vincent Tatan</a></h3>
 
+Vincent is a data analytics enthusiast. having graduated from SMU Information System in Analytics and worked as Data Engineer in Visa. He is excited to pay forward and prepare SMU champions to surf the wave of analytics.
+
 <br>
