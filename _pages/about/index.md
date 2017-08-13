@@ -57,7 +57,7 @@ As BIA's Vice President, she drives initiatives by liasing and networking with d
 
 <h3><a href="https://www.linkedin.com/in/le-van-tuan-long-6512ab92/">Le Van Tuan Long</a></h3>
 
-describe yourself lolol
+describe yourself lolol. dude u taking forever
 
 
 <h3><a href="https://www.linkedin.com/in/vikram-sanghi-676168102">Vikram Sanghi</a></h3>
@@ -103,5 +103,7 @@ describe yourself lolol
 <h3><a href="https://www.linkedin.com/in/ranon-sim/">Ranon Sim</a></h3>
 
 <h3><a href="https://www.linkedin.com/in/vincenttatan/">Vincent Tatan</a></h3>
+
+Vincent is a data analytics enthusiast. having graduated from SMU Information System in Analytics and worked as Data Engineer in Visa. He is excited to pay forward and prepare SMU champions to surf the wave of analytics.
 
 <br>
