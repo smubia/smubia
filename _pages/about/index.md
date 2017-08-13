@@ -57,7 +57,7 @@ As BIA's Vice President, she drives initiatives by liasing and networking with d
 
 <h3><a href="https://www.linkedin.com/in/le-van-tuan-long-6512ab92/">Le Van Tuan Long</a></h3>
 
-describe yourself lolol. dude u taking forever
+Long is a motivated individual wanting to contribute and make a positive impact in the society with his skills and knowledge.
 
 
 <h3><a href="https://www.linkedin.com/in/vikram-sanghi-676168102">Vikram Sanghi</a></h3>
@@ -95,12 +95,23 @@ As BIA's marketing director, he is involved in creating edm, planning for campai
 
 <h3><a href="https://www.linkedin.com/in/yingshenglam/">Lam Ying Sheng</a></h3>
 
-describe yourself lolol
+Josh studied Financial Informatics in Singapore Polytechnic. His interest was piqued in the second year, after learning about the management of database systems and quantitative statistical analysis. This furthered after his final year project on promoting programming to polytechnic students, and visiting Facebook in Menlo Park. He met many industrial technology leaders (e.g. President of Carousell, Director of Analytics at SAP, etc) who were doing really cool stuff in building products for their customers and users using predictive analytics.
+
+This made him really interested in how data was being stored and used. Furthermore, he discovered a vibrant technology community in Singapore through meetup groups such as PyData SG. It wasn’t until his last year of NS did he really try to apply and make use of his knowledge and interest in analytics to something he really wanted to do.
+
+He is our resident in-house math whiz who handles any mathematical portions of our curriculum.
 
 
 ## Alumni and Advisors
 
 <h3><a href="https://www.linkedin.com/in/ranon-sim/">Ranon Sim</a></h3>
+
+Ranon's education in SMU has exposed him to various domains of technology including security, data governance and project management and web/product development.
+
+He currently works at the intersection of app development, data science and business intelligence. Having engaged in various competitions, hackathons and technology meetups, his biggest finding is in the importance of data and technology in everyone’s lives.
+
+He is always hungry to explore exciting areas of technology including chat bots, augmented reality etc. and constantly looks out for problems to solve using these technologies. During his free time, he loves attending technology meetups and being part of a supportive community that seeks both extrinsic and intrinsic benefits towards learning.
+
 
 <h3><a href="https://www.linkedin.com/in/vincenttatan/">Vincent Tatan</a></h3>
 
