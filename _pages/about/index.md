@@ -57,7 +57,7 @@ As BIA's Vice President, she drives initiatives by liasing and networking with d
 
 <h3><a href="https://www.linkedin.com/in/le-van-tuan-long-6512ab92/">Le Van Tuan Long</a></h3>
 
-describe yourself lolol
+describe yourself lolol. dude u taking forever
 
 
 <h3><a href="https://www.linkedin.com/in/vikram-sanghi-676168102">Vikram Sanghi</a></h3>
