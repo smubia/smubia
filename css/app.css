@@ -4963,5 +4963,16 @@ article.essay_report-item {
   font-style: italic;
   font-size: 20px; }
 
+.analytics-page .analytics-case_studies {
+  background: #f9f9f9;
+  text-align: center; }
+
+.analytics-page h1 {
+  margin-top: 0.75em; }
+
+.analytics-page h3 {
+  margin-top: 15px;
+  margin-bottom: 10px; }
+
 #footer {
   margin: 30px 0 50px 0; }
