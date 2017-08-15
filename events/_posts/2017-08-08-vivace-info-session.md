@@ -11,4 +11,8 @@ category: events
 
 ## Vivace Info Session
 
+#### Date: 23rd August
+#### Time: 7PM - 8PM
+#### Location: SOL Seminar Room B2.01
+
 We will be holding an Info Session after Vivace. If you are interested in finding out more about Analytics, and what SMU BIA has to offer you, fill up the form below.
