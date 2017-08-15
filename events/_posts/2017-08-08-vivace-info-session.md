@@ -19,7 +19,9 @@ category: events
 
 **Sign-up Link:** [Here!](http://smu.sg/bia-info-session)
 
+
 We will be holding an Info Session after Vivace. If you are interested in finding out more about Analytics, and what SMU-BIA has to offer, sign up now and come join us! 
+
 
 **Things to be covered during the info session:**
 - Introduction to Data Analytics
