@@ -11,8 +11,19 @@ category: events
 
 ## Vivace Info Session
 
-#### Date: 23rd August
-#### Time: 7PM - 8PM
-#### Location: SOL Seminar Room B2.01
+**Date:** 23rd August
 
-We will be holding an Info Session after Vivace. If you are interested in finding out more about Analytics, and what SMU BIA has to offer you, fill up the form below.
+**Time:** 7PM - 8PM
+
+**Location:** SOL Seminar Room B2.01
+
+**Sign-up Link:** [Here!](http://smu.sg/bia-info-session)
+
+We will be holding an Info Session after Vivace. If you are interested in finding out more about Analytics, and what SMU-BIA has to offer, sign up now and come join us! 
+
+**Things to be covered during the info session:**
+- Introduction to Data Analytics
+- Introduction of SMU-BIA
+- Sharing by Eugene Yan on Data Analytics career
+- Introduction to BIA Co-Learning Model and BIA Data Associate position
+- Q&A session
