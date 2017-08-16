@@ -44,7 +44,7 @@ Being a Data Associate of BIA, you will be part of our weekly co-learning sessio
 - Co-Learning Session: Every Wednesday (7pm - 930pm)
 - Other BIA events throughout the year
 
-**Sign-up Link:**[Here](https://docs.google.com/forms/d/e/1FAIpQLSdNKzIJHonHSr4d_BDbdqUp5nXL0FwWr8OcuZAQ11Zm6Ng9Aw/viewform?hl=en) - Closing date: **24th August 2359**
+**Sign-up Link:** [Here](https://docs.google.com/forms/d/e/1FAIpQLSdNKzIJHonHSr4d_BDbdqUp5nXL0FwWr8OcuZAQ11Zm6Ng9Aw/viewform?hl=en) - Closing date: **24th August 2359**
 
 <br/>
 
