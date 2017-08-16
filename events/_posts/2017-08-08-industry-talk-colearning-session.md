@@ -41,6 +41,14 @@ Guest Speaker: TBC
 
 ## Co-learning Session #0: Welcoming
 
+**Date:** 6th September
+
+**Time:** 8PM - 9PM
+
+**Location:** TBC
+
+<br/>
+
 A welcoming session for the "Term 1 - 2017" batch of Data Associates. See you there :)
 
 <br/>
