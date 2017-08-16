@@ -1,6 +1,6 @@
 ---
 layout: essay
-title: Industry Talk 1 and Co-learning Session 1
+title: Industry Talk #1 and Co-learning Session #0
 description: We're holding an industry talk for the entire SMU. There's also a co-learning session after the industry talk.
 keywords: industry talk, colearning, august
 date: 2017-08-08 22:35:00 -0800
