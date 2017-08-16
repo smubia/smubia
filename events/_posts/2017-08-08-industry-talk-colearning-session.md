@@ -11,7 +11,7 @@ category: events
 
 ## Industry Talk #1: Finance
 
-**Date:** 6th September
+**Date:** 6th September, Wednesday
 
 **Time:** 7PM - 8PM
 
@@ -41,9 +41,9 @@ Guest Speaker: TBC
 
 ## Co-learning Session #0: Welcoming
 
-**Date:** 6th September
+**Date:** 6th September, Wednesday
 
-**Time:** 8PM - 9PM
+**Time:** 830PM - 930PM
 
 **Location:** TBC
 
