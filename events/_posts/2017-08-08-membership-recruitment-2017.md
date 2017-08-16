@@ -11,11 +11,9 @@ category: events
 
 ## We're Recruiting!
 
-<br/>
-
 ### 1. Membership Sign-up:
 
-**Criterias:** None. We welcome everyone to sign up as a BIA member regardless of your faculty, background and experience
+**Criterias:** None (We welcome everyone to sign up as a BIA member regardless of your faculty, background and experience)
 
 **Privileges:**
 - Get notification for BIA's events (Industry Talks, Networking Session, Hackathons...)
@@ -24,7 +22,6 @@ category: events
 
 **Sign-up Link:** [Here](https://docs.google.com/forms/d/e/1FAIpQLSdNKzIJHonHSr4d_BDbdqUp5nXL0FwWr8OcuZAQ11Zm6Ng9Aw/viewform?hl=en) - No closing date for the sign-up
 
-<br/>
 <br/>
 
 ### 2. Data Associates Sign-up:
