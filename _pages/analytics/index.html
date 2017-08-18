@@ -1,83 +1,57 @@
 ---
 layout: default
-title: SMU BIA Recruitment
-description: Interested in finding out more about analytics? Find out more now by clicking on this link!
-keywords: smubia-analytics
+title: SMU Business Intelligence Analytics
+description: We're a community of student data analysts and scientists focused on a practical projects-driven co-learning.
+keywords: home, homepage
 permalink: "/analytics/"
 ---
 
-<div id="content" class="analytics-page">
+<div id="content">
   <div class="row" id="home-image_banner">
-    <img src="http://i.imgur.com/KjVjdR7.jpg" width="100%">
+    <img src="https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/20622323_816108071894671_1241438410484188360_n.jpg?oh=44b0296c13320f1681536900551f17a9&oe=59F3C8CB" width="100%">
   </div>
   <div class="row" id="home-content_body">
     <div class="large-12 columns">
-      <h1>What is Data Analytics</h1>
-      <p>Data analytics refers to qualitative and quantitative techniques and processes used to enhance productivity and business gain. Data is extracted and categorised to identify and analyse behavioural data and patterns, and techniques vary according to organizational requirements.</p>
-      <p>- Techpedia</p>
-    </div>
-
-    <div class="large-12 columns">
-      <h1>Great Case Studies By Great Companies</h1>
-      <div class="row small-up-12 medium-up-3">
+      <h1>Events / Workshops</h1>
+      <div class="row small-up-12 medium-up-3" id="events-cards">
+        {% assign events = site.categories.events | sort: "happening_from" %}
+        {% for event in events limit: 3 %}
         <div class="column">
           <div class="card news-card">
             <div class="card-section">
               <article class="news-card-article">
-                <h3 class="news-card-title">Case Study 1</h3>
-                <p class="hide-for-small-only">Lorem ipsum doret sit amet.</p>
+                <h4 class="news-card-title"><a href="{{event.url}}">{{event.title}}</a></h4>
+                <p class="news-card-description  hide-for-small-only">{{event.content | strip_html | truncate:100 }}</p>
               </article>
+              <h5 class="news-card-date">
+                {{event.happening_from | date: "%e %b %y (%A)" }} <br>
+                {{event.happening_from | date: "%I.%M %p"}} - {{event.happening_to | date: "%I.%M %p"}}
+              </h5>
             </div>
           </div>
         </div>
-        <!-- end of column -->
-        <div class="column">
-          <div class="card news-card">
-            <div class="card-section">
-              <article class="news-card-article">
-                <h3 class="news-card-title">Case Study 2</h3>
-                <p class="hide-for-small-only">Lorem ipsum doret sit amet.</p>
-              </article>
-            </div>
-          </div>
-        </div>
-        <!-- end of column -->
-        <div class="column">
-          <div class="card news-card">
-            <div class="card-section">
-              <article class="news-card-article">
-                <h3 class="news-card-title">Case Study 3</h3>
-                <p class="hide-for-small-only">Lorem ipsum doret sit amet.</p>
-              </article>
-            </div>
-          </div>
-        </div>
-        <!-- end of column -->
-      </div>
-    </div>
-    <!-- end of middle body -->
-
-    <div class="large-12 columns">
-      <h1>Analytics Isn't Rocket Science!</h1>
-      <div class="row small-up-12 medium-up-3">
-        <div class="column">
-          <i class="fa fa-user-o" aria-hidden="true"></i>
-          <p>Get access to close door networking sessions, co-learning sessions and industry collaborations</p>
-        </div>
-        <!-- end of column -->
-        <div class="column">
-          <i class="fa fa-user-o" aria-hidden="true"></i>
-          <p>Get access to close door networking sessions, co-learning sessions and industry collaborations</p>
-        </div>
-        <!-- end of column -->
-        <div class="column">
-          <i class="fa fa-user-o" aria-hidden="true"></i>
-          <p>Get access to close door networking sessions, co-learning sessions and industry collaborations</p>
-        </div>
-        <!-- end of column -->
+        {% endfor %}
       </div>
     </div>
   </div>
-
-</div>
+  <div id="home-essays_reports_projects" class="row">
+    <div class="large-8 large-collapse columns" id="home-essays_reports">
+      <h1>Essays / Reports</h1>
+      <div class="row large-collapse">
+        {% for post in site.categories.blog %}
+        <article class="large-12 columns essay_report-item">
+          <a href="{{post.url}}">
+            <h4>{{post.title}}</h4>
+          </a>
+          {{post.content | strip_html | truncate:180 }}...
+          <a href="{{post.url}}">Read more</a>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="large-4 columns" id="home-projects">
+      <h1>Projects</h1>
+      <p>3-4 project cards goes here. TBD</p>
+    </div>
+  </div>
 </div>
