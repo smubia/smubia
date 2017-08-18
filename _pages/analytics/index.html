@@ -7,51 +7,13 @@ permalink: "/analytics/"
 ---
 
 <div id="content">
-  <div class="row" id="home-image_banner">
-    <img src="https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/20622323_816108071894671_1241438410484188360_n.jpg?oh=44b0296c13320f1681536900551f17a9&oe=59F3C8CB" width="100%">
-  </div>
-  <div class="row" id="home-content_body">
-    <div class="large-12 columns">
-      <h1>Events / Workshops</h1>
-      <div class="row small-up-12 medium-up-3" id="events-cards">
-        {% assign events = site.categories.events | sort: "happening_from" %}
-        {% for event in events limit: 3 %}
-        <div class="column">
-          <div class="card news-card">
-            <div class="card-section">
-              <article class="news-card-article">
-                <h4 class="news-card-title"><a href="{{event.url}}">{{event.title}}</a></h4>
-                <p class="news-card-description  hide-for-small-only">{{event.content | strip_html | truncate:100 }}</p>
-              </article>
-              <h5 class="news-card-date">
-                {{event.happening_from | date: "%e %b %y (%A)" }} <br>
-                {{event.happening_from | date: "%I.%M %p"}} - {{event.happening_to | date: "%I.%M %p"}}
-              </h5>
-            </div>
-          </div>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-  <div id="home-essays_reports_projects" class="row">
-    <div class="large-8 large-collapse columns" id="home-essays_reports">
-      <h1>Essays / Reports</h1>
-      <div class="row large-collapse">
-        {% for post in site.categories.blog %}
-        <article class="large-12 columns essay_report-item">
-          <a href="{{post.url}}">
-            <h4>{{post.title}}</h4>
-          </a>
-          {{post.content | strip_html | truncate:180 }}...
-          <a href="{{post.url}}">Read more</a>
-        </article>
-        {% endfor %}
-      </div>
-    </div>
-    <div class="large-4 columns" id="home-projects">
-      <h1>Projects</h1>
-      <p>3-4 project cards goes here. TBD</p>
+  <div class="row" style="margin-top: 5em; text-align: center">
+    <h2>Sign Up For SMU BIA Now!</h2>
+    <br><br>
+    <div class="small-12 large-centered columns">
+      <a class="button large primary" href="http://smu.sg/bia-info-session">BIA Info Session</a>
+      <br><br>
+      <a class="button large secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSdNKzIJHonHSr4d_BDbdqUp5nXL0FwWr8OcuZAQ11Zm6Ng9Aw/viewform">BIA Co Learning</a>
     </div>
   </div>
 </div>
