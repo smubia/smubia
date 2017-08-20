@@ -20,7 +20,7 @@
 								{% assign eventStartDate = event.happening_from | date: '%s' %}
 								{% if eventStartDate >= currDate %}
 									<div class="card news-card">
-										<div class="card-section">
+										<div class="card-section" onclick="location.href = '{{event.url}}';">
 											<article class="news-card-article">
 												<h4 class="news-card-title"><a href="{{event.url}}">{{event.title}}</a></h4>
 											</article>
@@ -43,7 +43,7 @@
 								{% assign eventStartDate = event.happening_from | date: '%s' %}
 								{% if eventStartDate < currDate %}
 									<div class="card news-card">
-										<div class="card-section">
+										<div class="card-section" onclick="location.href = '{{event.url}}';">
 											<article class="news-card-article">
 												<h4 class="news-card-title"><a href="{{event.url}}">{{event.title}}</a></h4>
 											</article>

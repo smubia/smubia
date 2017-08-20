@@ -4895,6 +4895,8 @@ h1, h2, h3, h4, h5, h6 {
           box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24); }
   #content .news-card .card-section {
     background-color: inherit; }
+    #content .news-card .card-section:hover {
+      cursor: pointer; }
     #content .news-card .card-section .news-card-date {
       font-size: 1em;
       color: #8a8a8a;

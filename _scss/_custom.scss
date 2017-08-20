@@ -113,6 +113,10 @@ $menu-hover-color: black;
     .card-section {
       background-color: inherit;
 
+      &:hover {
+        cursor: pointer;
+      }
+
       .news-card-date {
         font-size: 1em;
         color: $dark-gray;
