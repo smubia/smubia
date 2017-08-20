@@ -16,6 +16,19 @@ You will personally check a list of concepts and ensure that you have applied it
 
 While we understand that there is plenty of buzz about Deep Learning, Machine Learning, etc, we emphasize that we are largely **fundamentals driven.** Our belief is that by focusing too much on the buzz, you miss the fundamentals. By missing these fundamentals, you're literally building your future in analytics on shaky foundations. You will fall. As self-learners ourselves, by focusing on the fundamentals, we ensure that we are less susceptible to shifting trends in the analytics landscape. Trained on strong foundations, nothing will faze us.
 
+## Objectives & Outcomes
+
+When you have finished this programme, you should expect to have a portfolio of mini projects and 1 final project to use for your Summer Analytics Internship application(s).
+
+The mini-projects are designed to show that you have synthesized the topics and concepts for that particular learning session.
+
+The final project is designed to show that you have the ability to (non-exhaustive):
+- work in a team
+- apply project management skills
+- use git for file management
+- build and use the necessary models
+- come up with the right data-driven questions
+
 # Rules
 
 ## Why these rules?
@@ -63,20 +76,14 @@ SMU SIS CLASSROOM B1-1
 
 ## Schedule
 
-### Sem 1
 
 | #  | Event Title               | Date         |
 | -- |---------------------------|--------------|
-| 1  | Vivace Info Session       | 23 Aug 17    |
-| 2  | Industry Talk 1           | 30 Aug 17    |
-| 3  | Co-Learning Session 1     | 30 Aug 17    |
+| 1  | Co-Learning Session 1     | 13 Sep 17    |
 
-### Sem 2
-
-TBD
 
 ## Materials
 
-Slides will be uploaded in each event page. They will also be emailed.
+The necessary learning materials will be emailed to participants before each session.
 
 <br>
