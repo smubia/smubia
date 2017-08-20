@@ -14,23 +14,49 @@
 					<h2>Upcoming</h2>
 					<div class="row small-up-12 medium-8" id="events-cards">
 						<div class="column">
-							{% assign events = site.categories.events | sort: "happening_from" %}
-							{% for event in events %}
-							<div class="card news-card">
-								<div class="card-section">
-									<article class="news-card-article">
-										<h4 class="news-card-title"><a href="{{event.url}}">{{event.title}}</a></h4>
-									</article>
-									<h5 class="news-card-date">
-										{{event.happening_from | date: "%e %b %y (%A)" }} <br>
-										{{event.happening_from | date: "%I.%M %p"}} - {{event.happening_to | date: "%I.%M %p"}}
-									</h5>
-								</div>
-							</div>
+							{% assign currDate = site.time | date: '%s' %}
+							{% assign upcoming_events = site.categories.events | sort: "happening_from" %}
+							{% for event in upcoming_events %}
+								{% assign eventStartDate = event.happening_from | date: '%s' %}
+								{% if eventStartDate >= currDate %}
+									<div class="card news-card">
+										<div class="card-section">
+											<article class="news-card-article">
+												<h4 class="news-card-title"><a href="{{event.url}}">{{event.title}}</a></h4>
+											</article>
+											<h5 class="news-card-date">
+												{{event.happening_from | date: "%e %b %y (%A)" }} <br>
+												{{event.happening_from | date: "%I.%M %p"}} - {{event.happening_to | date: "%I.%M %p"}}
+											</h5>
+										</div>
+									</div>
+								{% endif %}
 							{% endfor %}
 						</div>
 					</div>
 					<h2>Past</h2>
+					<div class="row small-up-12 medium-8" id="events-cards">
+						<div class="column">
+							{% assign currDate = site.time | date: '%s' %}
+							{% assign past_events = site.categories.events | sort: "happening_from" %}
+							{% for event in past_events %}
+								{% assign eventStartDate = event.happening_from | date: '%s' %}
+								{% if eventStartDate < currDate %}
+									<div class="card news-card">
+										<div class="card-section">
+											<article class="news-card-article">
+												<h4 class="news-card-title"><a href="{{event.url}}">{{event.title}}</a></h4>
+											</article>
+											<h5 class="news-card-date">
+												{{event.happening_from | date: "%e %b %y (%A)" }} <br>
+												{{event.happening_from | date: "%I.%M %p"}} - {{event.happening_to | date: "%I.%M %p"}}
+											</h5>
+										</div>
+									</div>
+								{% endif %}
+							{% endfor %}
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
