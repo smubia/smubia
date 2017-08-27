@@ -4,8 +4,8 @@ title: Industry Talk #1 and Co-learning Session #0
 description: We're holding an industry talk for the entire SMU. There's also a co-learning session after the industry talk.
 keywords: industry talk, colearning, august
 date: 2017-08-08 22:35:00 -0800
-happening_from: 2017-08-30 19:00:00 -0800
-happening_to: 2017-08-30 22:00:00 -0800
+happening_from: 2017-09-06 19:15:00 -0800
+happening_to: 2017-09-06 20:45:00 -0800
 category: events
 ---
 
@@ -13,9 +13,9 @@ category: events
 
 **Date:** 6th September, Wednesday
 
-**Time:** 7PM - 8PM
+**Time:** 7.15PM - 8.45PM
 
-**Location:** TBC
+**Location:** SOE/SOSS SR. 2-5
 
 **Sign-up Link:** TBC
 
