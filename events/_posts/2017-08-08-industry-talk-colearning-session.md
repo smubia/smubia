@@ -51,9 +51,9 @@ Guest Speaker: TBC
 
 A welcoming session for the "Term 1 - 2017" batch of Data Associates. See you there :)
 
-<br/>
 
-**Things to be covered during Co-Learning Session #0 :**
+**Things we will cover:**
+
 - Introduction of the CORE team and the vision of the club
 - Brief overview of the upcomming plan for the club
 - Other boring admin stuffs
