@@ -43,7 +43,7 @@ Guest Speaker: TBC
 
 **Date:** 6th September, Wednesday
 
-**Time:** 830PM - 930PM
+**Time:** 845PM - 945PM
 
 **Location:** TBC
 
