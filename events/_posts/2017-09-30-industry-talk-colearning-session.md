@@ -1,9 +1,9 @@
 ---
 layout: essay
-title: Industry Talk #1 and Co-learning Session #0
+title: Industry Talk 1
 description: We're holding an industry talk for the entire SMU. There's also a co-learning session after the industry talk.
 keywords: industry talk, colearning, august
-date: 2017-08-08 22:35:00 -0800
+date: 2017-09-06 10:35:00 -0800
 happening_from: 2017-09-06 19:15:00 -0800
 happening_to: 2017-09-06 20:45:00 -0800
 category: events
@@ -19,42 +19,19 @@ category: events
 
 **Sign-up Link:** TBC
 
-<br/>
+**Description:**
 
 The first ever industry talk by BIA will be about the Finance Industry!
 
 Data Analytics has made great impact in the Finance Industry in the recent years, bringing in efficiency, cost-savings and increased profits. Come join us for the BIA Industry Talk happening on 6th September to find out more on how Data Analytics is revolutionalising the Finance sector.
 
-<br/>
+**Guest Speaker:**
 
-Guest Speaker: TBC
-
-<br/>
+TBC
 
 **Things to be covered during Industry Talk #1 :**
 - Introduction to Data Analytics in Finance Industry
-- Guest Speaker's Sharing 
+- Guest Speaker's Sharing
 - Q&A session
 
 <br/>
-<br/>
-
-## Co-learning Session #0: Welcoming
-
-**Date:** 6th September, Wednesday
-
-**Time:** 845PM - 945PM
-
-**Location:** TBC
-
-<br/>
-
-A welcoming session for the "Term 1 - 2017" batch of Data Associates. See you there :)
-
-
-**Things we will cover:**
-
-- Introduction of the CORE team and the vision of the club
-- Brief overview of the upcomming plan for the club
-- Other boring admin stuffs
-- Bonding session
