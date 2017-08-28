@@ -62,7 +62,9 @@ As an Events Director, Long is in charged of planning Co-Learning Sessions, Indu
 
 <h3><a href="https://www.linkedin.com/in/vikram-sanghi-676168102">Vikram Sanghi</a></h3>
 
-Vikram is currently learning data science and exploring ways to provide solutions leveraging on analytics to solve business problems mostly related to Operations, Logistics and Finance. He feels that a community like BIA is necessary to bridge the gap from where we are to be able to leverage the power of analytics to ameliorate our surroundings with better decisions. After all the choice is always ours.
+Vikram is currently learning data science and exploring ways to provide solutions leveraging on analytics to solve business problems mostly related to Operations, Logistics and Finance. He feels that a community like BIA is necessary to bridge the gap from where we are to be able to leverage the power of analytics to ameliorate our surroundings with better decisions. 
+
+He loves reading books and few of his top picks are The Catcher in the rye, Outliers, Blink and The Tipping Point. He likes to explore common applicable theories in diffeent disciplines to solve the problems, so if you are interested in drawing synergies to crack problems hit him up.
 
 
 <h3><a href="https://www.linkedin.com/in/lee-tze-yiing-86511b123/">Lee Tze Yiing</a></h3>
