@@ -57,7 +57,7 @@ As BIA's Vice President, she drives initiatives by liasing and networking with d
 
 Long is a Year 2 student pursuing a Double Degree in Accountancy and Information System. He is passionate about learning and has developed an interest for Data Analytics. He loves exploring new ideas and sharing his knowledge and he strongly believes that a community like BIA would be fantastic in helping people to learn in the most conducive way.
 
-As an Events Director, Long is in charged of planning Co-Learning Sessions, Industry Talks, Networking Sessions, Hackathons and many other BIA events. He is responsible for the coordination between different teams and the allocation of tasks to ensure events' success.
+As an Events Director, Long is in charge of planning Co-Learning Sessions, Industry Talks, Networking Sessions, Hackathons and many other BIA events. He is responsible for the coordination between different teams and the allocation of tasks to ensure events' success.
 
 
 <h3><a href="https://www.linkedin.com/in/vikram-sanghi-676168102">Vikram Sanghi</a></h3>
