@@ -17,7 +17,8 @@ category: events
 
 **Location:** SOE/SOSS SR. B1-2
 
-**Sign-up Link:** https://goo.gl/forms/g2ldE3b8LMNvsYd42
+**Sign-up Link:** <https://goo.gl/forms/g2ldE3b8LMNvsYd42>
+
 
 **Description:**
 
@@ -27,11 +28,11 @@ Data Analytics has made great impact in the Finance Industry in the recent years
 
 **Guest Speaker:**
 
-**Juan Kanggrawan** - Assistant Director, Sense InfoSys
+Juan Kanggrawa - Assistant Director, Sense InfoSys
 
-**Sutayasa** - Outsourcing Manager, Paypal
+Sutayasa - Outsourcing Manager, Paypal
 
-**Victor Barlian** - Consultant, Factset
+Victor Barlian- Consultant, Factset
 
 **Things to be covered during Industry Talk #1 :**
 - Introduction to Data Analytics in Finance Industry
