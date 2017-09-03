@@ -15,9 +15,9 @@ category: events
 
 **Time:** 7.15PM - 8.45PM
 
-**Location:** SOE/SOSS SR. 2-5
+**Location:** SOE/SOSS SR. B1-2
 
-**Sign-up Link:** TBC
+**Sign-up Link:** https://goo.gl/forms/g2ldE3b8LMNvsYd42
 
 **Description:**
 
@@ -27,7 +27,11 @@ Data Analytics has made great impact in the Finance Industry in the recent years
 
 **Guest Speaker:**
 
-TBC
+**Juan Kanggrawan** - Assistant Director, Sense InfoSys
+
+**Sutayasa** - Outsourcing Manager, Paypal
+
+**Victor Barlian** - Consultant, Factset
 
 **Things to be covered during Industry Talk #1 :**
 - Introduction to Data Analytics in Finance Industry
