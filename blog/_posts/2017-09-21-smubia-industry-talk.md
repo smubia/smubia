@@ -1,6 +1,6 @@
 ---
 layout: essay
-title: SMU BIA Discusses Applications of Data Analytics in the Finance Sector at its Inaugural Industry Talk
+title: Applications of Data Analytics in Finance
 date:   2017-09-21 10:15:00 -0800
 description: A brief update on SMU BIA's 1st industry talk on Analytics in Finance
 keywords: vivace 2017, vivace, 2017
