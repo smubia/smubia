@@ -4845,6 +4845,7 @@ h1, h2, h3, h4, h5, h6 {
     #menu .menu {
       margin-top: 15px; }
     #menu .menu > li {
+      display: inline-block;
       float: none; }
     #menu .menu > li > a {
       font-size: 16px;
