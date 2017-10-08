@@ -9,15 +9,16 @@
 	<div id="content">
 		<div class="row">
 			<div class="large-10 large-offset-1 columns">
-				<div class="essays">
+				<article class="essays">
 					<div class="essays-title_and_author">
 						<h1>{{page.title}}</h1>
 						<div class="essays-author_name">{{page.author}}</div>
+						<time class="essays-pubdate" pubdate datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time>
 					</div>
 					{{content}}
-				</div>
+				</article>
 			</div>
-		</div>
+	</div>
 	</div>
 
 	{% include footer.html %}
