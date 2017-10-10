@@ -16,9 +16,12 @@
 						<div class="column">
 							{% assign currDate = site.time | date: '%s' %}
 							{% assign upcoming_events = site.categories.events | sort: "happening_from" %}
+							{% assign upcoming_eventsCounter = 0 %}
+
 							{% for event in upcoming_events %}
 								{% assign eventStartDate = event.happening_from | date: '%s' %}
 								{% if eventStartDate >= currDate %}
+									{% assign upcoming_eventsCounter = upcoming_eventsCounter | plus:'1' %}
 									<div class="card news-card">
 										<div class="card-section" onclick="location.href = '{{event.url}}';">
 											<article class="news-card-article">
@@ -32,6 +35,9 @@
 									</div>
 								{% endif %}
 							{% endfor %}
+							{% if upcoming_eventsCounter == 0 %}
+								<p class="empty-message">Sorry. No events scheduled.</p>
+							{% endif %}
 						</div>
 					</div>
 					<h2>Past</h2>
