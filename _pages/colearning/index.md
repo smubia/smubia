@@ -10,20 +10,22 @@ permalink: "/co-learning/"
 
 ## What Is It?
 
-Lectures are boring (okay, not all but most) We understand that and taken to a new approach that **each co-learner takes ownership of their own learning.** We also understand that real learning does not happen if you have not applied what you learnt. Hence, every session will end with a **mini-project** that illustrates what you have learnt.
+Lectures are boring (okay, not all, but most). We understand that and are offering a new approach to that where **each co-learner takes ownership of their own learning.** We also understand that real learning does not happen if you have not applied what you learnt. Hence, every session will end with a **mini-project** that illustrates what you have learnt.
 
-You will personally check a list of concepts and ensure that you have applied it. Fellow members in their co-learning groups will take turns to check each others' work and provide feedback. The more you provide feedback, the better everyone learns as a whole. This is our **projects driven, co-learning** approach.
+You will personally check a list of concepts and ensure that you have applied it. Fellow members in their co-learning groups will take turns to check each others' work and provide feedback. The more feedback you provide, the more everyone learns. This is our **projects driven, co-learning** approach.
 
-While we understand that there is plenty of buzz about Deep Learning, Machine Learning, etc, we emphasize that we are largely **fundamentals driven.** Our belief is that by focusing too much on the buzz, you miss the fundamentals. By missing these fundamentals, you're literally building your future in analytics on shaky foundations. You will fall. As self-learners ourselves, by focusing on the fundamentals, we ensure that we are less susceptible to shifting trends in the analytics landscape. Trained on strong foundations, nothing will faze us.
+While we understand that there is plenty of buzz about Deep Learning, Machine Learning, etc, we emphasize that we are largely **fundamentals driven.** Our belief is that by focusing too much on the buzz, you miss the fundamentals. By missing these fundamentals, you're literally building your future in analytics on shaky foundations. You will fall. 
+
+As self-learners ourselves, by focusing on the fundamentals, we ensure that we are less susceptible to shifting trends in the analytics landscape. Trained on strong foundations, nothing will phase us.
 
 ## Objectives & Outcomes
 
-When you have finished this programme, you should expect to have a portfolio of mini projects and 1 final project to use for your Summer Analytics Internship application(s).
+When you have finished this programme, you should expect to have a portfolio of mini-projects and one, final project to use for your Summer Analytics Internship application(s).
 
 The mini-projects are designed to show that you have synthesized the topics and concepts for that particular learning session.
 
 The final project is designed to show that you have the ability to (non-exhaustive):
-- work in a team
+- work on a team
 - apply project management skills
 - use git for file management
 - build and use the necessary models
@@ -61,15 +63,15 @@ We'll be interviewing mainly for the following:
 - Tenacity To Learn
 - Commitment
 
-You're expected to prepare for the interview.
-It tells us a lot about how you would treat this program.
+You're expected to prepare for the interview. It tells us a lot about how you would treat this program.
 
 # Details
 
 ## When Is It?
 
 **Date:**
-Every Wednesday, 7 - 10pm <br>
+Every Wednesday, 7 - 10pm
+
 **Venue:**
 SMU SIS CLASSROOM B1-1
 
@@ -86,4 +88,3 @@ SMU SIS CLASSROOM B1-1
 
 The necessary learning materials will be emailed to participants before each session.
 
-<br>
