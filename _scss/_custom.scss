@@ -52,6 +52,15 @@ $menu-hover-color: black;
 }
 
 #content {
+
+  ul {
+    margin-top: 20px;
+
+    li {
+      font-size: 18px;
+    }
+  }
+
   @include breakpoint(large medium only) {
     // margin-top: 52px;
 
@@ -183,14 +192,6 @@ article {
   p {
     margin: 1.25em 0 .5em 0;
     font-size: 18px;
-  }
-
-  ul {
-    margin-top: 20px;
-
-    li {
-      font-size: 18px;
-    }
   }
 }
 

@@ -4859,6 +4859,11 @@ h1, h2, h3, h4, h5, h6 {
     color: black;
     text-decoration: underline; }
 
+#content ul {
+  margin-top: 20px; }
+  #content ul li {
+    font-size: 18px; }
+
 @media screen and (min-width: 64em) {
   #content #home-essays_reports_projects {
     margin-top: 30px;
@@ -4941,11 +4946,6 @@ article.essay_report-item {
 .pages p, .events p {
   margin: 1.25em 0 .5em 0;
   font-size: 18px; }
-
-.pages ul, .events ul {
-  margin-top: 20px; }
-  .pages ul li, .events ul li {
-    font-size: 18px; }
 
 .essays h1 {
   margin-top: 2em; }
