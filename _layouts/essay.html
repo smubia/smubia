@@ -13,6 +13,7 @@
 					<div class="essays-title_and_author">
 						<h1>{{page.title}}</h1>
 						<div class="essays-author_name">{{page.author}}</div>
+						<div class="essay-date">{{ page.date | date: "%m/%d/%Y | %r" }}</div>
 					</div>
 					{{content}}
 				</div>

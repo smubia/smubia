@@ -39,63 +39,63 @@ The most important thing for you to do is to **push yourself as a person** and t
 
 ## Current Core Team
 
-<h3><a href="https://www.linkedin.com/in/gabrielchuan/">Gabriel Chuan</a></h3>
+<h3><a href="https://www.linkedin.com/in/gabrielchuan/">Gabriel Chuan</a> <span style="font-style: italic">(President)</span></h3>
 
 Gabriel is currently exploring the use of data science in education technology. He does this by working part-time in an edtech company that's focused on using ML to help kids practice more efficiently and effectively for their studies. On the side, he's helping out with Data Science SG, taking notes and filming each meet-up to help spread the love of analytics in Singapore.
 
 He has ***some "hacking"*** experience from attending hackathons, working on his own side projects, exploring new and experimental technology as a hobby. All of which is largely self learnt in study groups he has found or formed. Marrying his interests in data science, edtech, hacking and self-learning, he hopes to be able to help his peers through SMU BIA to form cohesive and sustainable learning communities. Really, it's all about motivating each other to learn and reach new heights. Isn't that what living is all about?
 
 
-<h3><a href="https://www.linkedin.com/in/sheryl-chong-26406585/">Sheryl Chong</a></h3>
+<h3><a href="https://www.linkedin.com/in/sheryl-chong-26406585/">Sheryl Chong</a> <span style="font-style: italic">(Vice-President)</span></h3>
 
 Sheryl is a 3rd year information systems student pursuing a second major in analytics. She developed interests in analytics during her polytechnic internship at SAS Institute Pte Ltd and wishes to use analytics to impact and improve the society.
 
 As BIA's Vice President, she drives initiatives by liasing and networking with different stakeholders, improving BIA club visibility and expanding the BIA community.
 
 
-<h3><a href="https://www.linkedin.com/in/le-van-tuan-long-6512ab92/">Le Van Tuan Long</a></h3>
+<h3><a href="https://www.linkedin.com/in/le-van-tuan-long-6512ab92/">Le Van Tuan Long</a> <span style="font-style: italic">(Events Director)</span></h3>
 
 Long is a Year 2 student pursuing a Double Degree in Accountancy and Information System. He is passionate about learning and has developed an interest for Data Analytics. He loves exploring new ideas and sharing his knowledge and he strongly believes that a community like BIA would be fantastic in helping people to learn in the most conducive way.
 
 As an Events Director, Long is in charge of planning Co-Learning Sessions, Industry Talks, Networking Sessions, Hackathons and many other BIA events. He is responsible for the coordination between different teams and the allocation of tasks to ensure events' success.
 
 
-<h3><a href="https://www.linkedin.com/in/vikram-sanghi-676168102">Vikram Sanghi</a></h3>
+<h3><a href="https://www.linkedin.com/in/vikram-sanghi-676168102">Vikram Sanghi</a> <span style="font-style: italic">(Events Director)</span></h3>
 
 Vikram is currently learning data science and exploring ways to provide solutions leveraging on analytics to solve business problems mostly related to Operations, Logistics and Finance. He feels that a community like BIA is necessary to bridge the gap from where we are to be able to leverage the power of analytics to ameliorate our surroundings with better decisions. 
 
 He loves reading books and few of his top picks are The Catcher in the rye, Outliers, Blink and The Tipping Point. He likes to explore common applicable theories in diffeent disciplines to solve the problems, so if you are interested in drawing synergies to crack problems hit him up.
 
 
-<h3><a href="https://www.linkedin.com/in/lee-tze-yiing-86511b123/">Lee Tze Yiing</a></h3>
+<h3><a href="https://www.linkedin.com/in/lee-tze-yiing-86511b123/">Lee Tze Yiing</a> <span style="font-style: italic">(Finance Director)</span></h3>
 
 Tze Yiing is a Year 2 BAcc student and is interested in the applications of advanced analytics for automation and business solutions. He deeply believes in self-learning skills beyond the classroom, and has accumulated multi-disciplinary skillsets, ranging from Enterprise-platform automation, web/app development, web scraping, general scripting, as well as advanced analytics.
 
 Tze Yiing is a the Finance/Operations Director at BIA, and has been involved with club budgeting and the planning and creation of the Exploratory Data Analytics Curriculum. He has also been the main driver behind the streamlining of internal operations of the club through custom Sharepoint Apps, as well as process automation solutions with Microsoft Flow.
 
 
-<h3><a href="https://www.linkedin.com/in/sofiakung/">Sofia Kung</a></h3>
+<h3><a href="https://www.linkedin.com/in/sofiakung/">Sofia Kung</a> <span style="font-style: italic">(Finance Director)</span></h3>
 
 Sofia Kung is a year 3 Accountancy student, specialized in Accounting Analytics Track. Although Sofia is pursuing an Accountancy Degree, she hopes to branch out and apply analytics into different aspect of the financial world. She hopes to be able to master Python for Data Analysis & Visualization and Tableau by graduation. 
 
 Sofia is the Finance Director of BIA, and handles budget analysis, cash management, sponsorships and all other matters related to finance.
 
 
-<h3><a href="https://www.linkedin.com/in/davidckchin/">David Chin</a></h3>
+<h3><a href="https://www.linkedin.com/in/davidckchin/">David Chin</a> <span style="font-style: italic">(PR Director)</span></h3>
 
 David’s professional background focuses on developing go-to-market customer and executing B2B lead acquisition models for technology solutions companies in South East Asia. He takes a collaborative approach to developing thought leadership and mindshare platforms for C-suite leaders in technology. David engages with CxOs to exchange ideas on leveraging technology tools and models to enable their enterprise to stay competitive. He is also an advocate for developing technology skill-sets and industry immersion opportunities for youths and millennials.
 
 David’s role at BIA focuses on developing sustainable industry partnerships between BIA and government, corporate, start-up and non-profit organisations. David manages external communications with the BIA community, communications with corporate partners and crisis response and Business Continuity Planning (BCP).
 
 
-<h3><a href="https://www.linkedin.com/in/michaelomh">Ong Ming Hao</a></h3>
+<h3><a href="https://www.linkedin.com/in/michaelomh">Ong Ming Hao</a> <span style="font-style: italic">(Marketing Director)</span></h3>
 
 Michael is a year 4 information systems and advance analytics student. He is well versed in data visualisation, data storytelling and many other aspects of data analytics. Currently, he is working in General Electric (healthcare) as a business intelligence intern.
 
 As BIA's marketing director, he is involved in creating edm, planning for campaigns and maintaining smubia's Facebook page.
 
 
-<h3><a href="https://www.linkedin.com/in/yingshenglam/">Lam Ying Sheng</a></h3>
+<h3><a href="https://www.linkedin.com/in/yingshenglam/">Lam Ying Sheng</a> <span style="font-style: italic">(Research Director)</span></h3>
 
 Josh studied Financial Informatics in Singapore Polytechnic. His interest was piqued in the second year, after learning about the management of database systems and quantitative statistical analysis. This furthered after his final year project on promoting programming to polytechnic students, and visiting Facebook in Menlo Park. He met many industrial technology leaders (e.g. President of Carousell, Director of Analytics at SAP, etc) who were doing really cool stuff in building products for their customers and users using predictive analytics.
 
