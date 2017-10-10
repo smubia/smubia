@@ -4965,6 +4965,11 @@ article.essay_report-item {
   font-style: italic;
   font-size: 20px; }
 
+.essays .essays-pubdate {
+  font-style: italic;
+  font-size: 18px;
+  color: #8a8a8a; }
+
 .analytics-page .analytics-case_studies {
   background: #f9f9f9;
   text-align: center; }
