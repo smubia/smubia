@@ -4942,6 +4942,11 @@ article.essay_report-item {
   margin: 1.25em 0 .5em 0;
   font-size: 18px; }
 
+.pages ul, .events ul {
+  margin-top: 20px; }
+  .pages ul li, .events ul li {
+    font-size: 18px; }
+
 .essays h1 {
   margin-top: 2em; }
 
