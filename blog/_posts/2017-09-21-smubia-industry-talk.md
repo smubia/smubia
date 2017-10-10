@@ -8,8 +8,9 @@ category: blog
 author: David Chin
 ---
 
-Following SMUBIA’s success at SMU VIVACE just less than a month before, SMUBIA conducted its inaugural industry talk session on the evening of 6 September 2017. Addressing a packed seminar room of just over 80 SMUBIA members, are an esteemed speaker line-up:
+![Event Panaroma](https://i.imgur.com/t6PRP3I.png)
 
+Following SMUBIA’s success at SMU VIVACE just less than a month before, SMUBIA conducted its inaugural industry talk session on the evening of 6 September 2017. Addressing a packed seminar room of just over 80 SMUBIA members, are an esteemed speaker line-up:
 
 **1.** Juan Kanggrawan, Assistant Director (Corporate & Business Development), Sense Infosys
 
@@ -24,6 +25,8 @@ Riding on the momentum are Victor and Amos, who shared about FactSet’s analyti
 
 Juan Kanggrawan concluded the keynote sharing with a demo of Sense Infosys’ Qlik platform, emphasising the importance of distilling complex data insights to actionable roadmaps that business decision makers could consider. 
 
-The session concluded with a short panel QnA. Questions relating to analytics skillsets and career we development were addressed by the panel, and gears quickly changed as Suta shared about the role of analytics in his domain of payments governance, while Juan shared from his personal experience, some tips to enhance communication outcomes with business stakeholders as an analytics practitioner.
+<img src="https://i.imgur.com/BeK47Xa.jpg" alt="Panel Discussion" width="49%"/> <img src="https://i.imgur.com/N5X991V.jpg" alt="Group Photo" width="49%" />
+
+The session concluded with a short panel Q&A. Questions relating to analytics skillsets and career we development were addressed by the panel, and gears quickly changed as Suta shared about the role of analytics in his domain of payments governance, while Juan shared from his personal experience, some tips to enhance communication outcomes with business stakeholders as an analytics practitioner.
 
 The session concluded with a group photo taking and networking.
