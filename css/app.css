@@ -4855,6 +4855,8 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Rubik", sans-serif;
     font-weight: bold;
     color: #4A4A4A; }
+    #menu .menu > li > a:active {
+      color: #1779ba; }
   #menu .menu > li > a:hover {
     color: black;
     text-decoration: underline; }
