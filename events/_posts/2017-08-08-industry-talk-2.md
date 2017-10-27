@@ -17,7 +17,7 @@ category: events
 
 **Location:** TBC
 
-**Sign-up Link:** (https://goo.gl/forms/MG2XyXumnWDIYNsO2)[https://goo.gl/forms/MG2XyXumnWDIYNsO2] (Priority will be given to SMU BIA members)
+**Sign-up Link:** [https://goo.gl/forms/MG2XyXumnWDIYNsO2](https://goo.gl/forms/MG2XyXumnWDIYNsO2) (Priority will be given to SMU BIA members)
 
 **Description:**
 
