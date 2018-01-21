@@ -76,7 +76,7 @@ Tze Yiing is a the Finance/Operations Director at BIA, and has been involved wit
 
 <h3><a href="https://www.linkedin.com/in/sofiakung/">Sofia Kung</a> <span style="font-style: italic">(Finance Director)</span></h3>
 
-Sofia Kung is a year 3 Accountancy student, specialized in Accounting Analytics Track. Although Sofia is pursuing an Accountancy Degree, she hopes to branch out and apply analytics into different aspect of the financial world. She hopes to be able to master Python for Data Analysis & Visualization and Tableau by graduation. 
+Sofia Kung is a year 3 Accountancy student, pursing second major in Analytics. She believes that analytics will be prevalent in every discipline in the near future. As a motivated self-learner, she is familiar with Tableau, Python and basic SQL. Currently, she is interning at Deloitte as Audit Intern and involved in the Audit Analytics department. 
 
 Sofia is the Finance Director of BIA, and handles budget analysis, cash management, sponsorships and all other matters related to finance.
 
