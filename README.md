@@ -29,6 +29,10 @@ If you're daring, simply run `gulp`. This will allow you to edit your pages and 
 
 Use the **local Access URLs**
 
+#### Issues with Gemfile problems
+
+To fix this, simply run `bundle exec gulp` instead of simply running `gulp`
+
 ## Adding Information
 
 - [Adding New Events and Workshops](#new-events-and-workshops)
