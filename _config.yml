@@ -17,3 +17,5 @@ permalink: /:categories/:title/
 mainpages:
   - url: /about
     title: About
+plugins:
+  - jekyll-seo-tag
