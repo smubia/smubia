@@ -70,21 +70,12 @@ You're expected to prepare for the interview. It tells us a lot about how you wo
 ## When Is It?
 
 **Date:**
-Every Wednesday, 7 - 10pm
+Every Wednesday, 7.30 - 9.30pm
 
 **Venue:**
-SMU SIS CLASSROOM B1-1
-
-
-## Schedule
-
-
-| #  | Event Title               | Date         |
-| -- |---------------------------|--------------|
-| 1  | Co-Learning Session 1     | 13 Sep 17    |
-
+SMU SOE CLASSROOM 2-1 and 2-2
 
 ## Materials
 
-The necessary learning materials will be emailed to participants before each session.
+The necessary learning materials will be put on our [open source curriculum](https://github.com/smubia/dap-2017/).
 
