@@ -10,7 +10,7 @@ permalink: "/co-learning/"
 
 ## What Is It?
 
-Lectures are boring (okay, not all, but most). We understand that and are offering a new approach to that where **each co-learner takes ownership of their own learning.** We also understand that real learning does not happen if you have not applied what you learnt. Hence, every session will end with a **mini-project** that illustrates what you have learnt.
+Lectures are a bit boring (okay, not all, but quite a number of them are). We understand that and are offering a new approach to that where **each co-learner takes ownership of their own learning.** We also understand that real learning does not happen if you have not applied what you learnt. Hence, every session will end with a **mini-project** that illustrates what you have learnt.
 
 You will personally check a list of concepts and ensure that you have applied it. Fellow members in their co-learning groups will take turns to check each others' work and provide feedback. The more feedback you provide, the more everyone learns. This is our **projects driven, co-learning** approach.
 
