@@ -22,6 +22,10 @@ keywords: home, homepage
           {% if eventStartDate >= currDate %}
             {% assign upcoming_events = upcoming_events | push: event %}
           {% endif %}
+          {% if eventStartDate <= currDate %}
+            <p>Sorry. There are no events currently scheduled.</p>
+            {% break %}
+          {% endif %}
         {% endfor %}
 
         {% assign upcoming_events = upcoming_events | sort: "happening_from" %}
