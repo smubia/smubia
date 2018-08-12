@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: contact
 title: Contact SMU BIA
 description: SMU BIA is looking for sponsors, speakers interested in giving talks on analytics for students...
 keywords: contact-smubia

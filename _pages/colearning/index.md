@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: colearning
 title: SMU BIA Co-learning
 description: Interested in co-learning analytics with like minded people? Join us today!
 keywords: co-learning-smubia
